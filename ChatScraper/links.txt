@@ -1,0 +1,16 @@
+absolute_url
+https://www.mercadolivre.com.br/
+https://www.mercadolivre.com.br/acessibilidade/feedback
+https://www.mercadolivre.com.br
+https://www.mercadolivre.com.br/ofertas
+https://www.mercadolivre.com.br/navigation/addresses-hub?go=https%3A%2F%2Fwww.mercadolivre.com.br%2F
+https://www.mercadolivre.com.br/categorias#nav-header
+https://www.mercadolivre.com.br/ofertas#nav-header
+https://www.mercadolivre.com.br/gz/home/navigation#nav-header
+https://www.mercadolivre.com.br/ofertas/supermercado#nav-header
+https://www.mercadolivre.com.br/c/calcados-roupas-e-bolsas#nav-header
+https://play.mercadolivre.com.br/?origin=navigation_menu_web#nav-header
+https://www.mercadolivre.com.br/syi/core/list#nav-header
+https://www.mercadolivre.com.br/ajuda#nav-header
+https://www.mercadolivre.com.br/registration?confirmation_url=https%3A%2F%2Fwww.mercadolivre.com.br%2F#nav-header
+https://myaccount.mercadolivre.com.br/purchases/list#nav-header
