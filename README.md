@@ -12,7 +12,7 @@ Com a ChatScraper você poderá informar a url de algum site e ela coletará as 
 
 ## Bibliotecas Utilizadas:
 * BeautifulSoup - Ferramenta poderosa para analisar e extrair informações de documentos HTML/XML de maneira fácil e eficaz;
-* * Instalação: pip install beautifulsoup4
+  * Instalação: pip install beautifulsoup4
 * Requests - 
  
 
