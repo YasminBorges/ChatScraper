@@ -1,5 +1,8 @@
 # 🖥️🔍ChatScraper
-Uma IA Generativa capaz de fazer Web Scrapping para te ajudar a obter informações de forma rápida
+Uma IA Generativa capaz de fazer Web Scrapping para te ajudar a obter informações de forma rápida.
+
+##O que ela faz?
+Com a ChatScraper você poderá informar a url de algum site e ela coletará as informações que puder,para você fazer perguntas sobre o que lhe interessa do site informado.
 
 
 
