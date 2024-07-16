@@ -7,7 +7,7 @@ Com a ChatScraper você poderá informar a url de algum site e ela coletará as 
 
 
 <div align="center">
-   <img align="center"  alt="Rafa-HTML" height="450" width="550" src="https://imgur.com/a/64oXNCX.png">
+   <img align="center"  alt="Rafa-HTML" height="450" width="550" src="https://imgur.com/a/64oXNCX">
 </div>
 
 ## IA Utlizada:
